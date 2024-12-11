@@ -72,5 +72,7 @@
   <!-- Credits -->
 ------
 
+<h2>Canal de youtube</h2>
+ <a href="https://youtube.com/@stiv1on?si=lxgisEM3WjgsVIb0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Portfolio" height="25" /></a>
 
 Last Edited on: 11/12/2024
