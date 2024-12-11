@@ -1,7 +1,7 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 
   <!-- Welcome -->
-<h1  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1  align="center">Hola , Como estas ?? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
   <!-- Typing Text -->
 <p align="center">
@@ -13,12 +13,12 @@
 
   <!-- Description -->
 ```diff
-🛠️ +5 years of professional experience.
-+  ✔️ Responsible worker.
+🛠️ +5 años de Experiencia profeccional.
++  ✔️ Trabajador Responsable.
 #  👨‍💻 Information Technology Engineer (ITI).
 -  🚀 Optimizing web pages.
-!  ✨ If you can imagine it, you can program it. 
-@@ 💻Solving problems from a self-built computer.@@
+!  ✨ Si puedes Imaginarlo Puedes Programarlo. 
+@@ 💻Resolver problemas desde una computadora de construcción propia.@@
 ```
 
   <!-- Skills and Tools-->
@@ -63,14 +63,14 @@
 <p align="right">
   <span>
     <a target="_blank"><img src="https://komarev.com/ghpvc/?username=dante-barreda&style=for-the-badge" alt="Profile views" height="25" /></a>
-    <a href="mailto:examplem@gmail.com?subject=Hello%20UserName"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
-    <a href="https://your-portfolio-website.com" target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Portfolio" height="25" /></a>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
+    <a href="mailto:StevenSanchezDEV@gmail.com?subject=Hello%20UserName"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
+    <a href="https://stevensanchez.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Portfolio" height="25" /></a>
+    <a href="https://www.linkedin.com/in/steven-sanchez-203627252?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7AxefZMJR0aWz79N%2Beg%2BwA%3D%3D"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
   </span>
 </p>
 
   <!-- Credits -->
 ------
-Credit: [dante-barreda](https://github.com/dante-barreda)
 
-Last Edited on: 25/07/2024
+
+Last Edited on: 11/12/2024
