@@ -98,9 +98,9 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
+   <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+  &emsp; 
    
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
     
 </p>
 
@@ -118,8 +118,6 @@
 </p>
 
 
-<h2>Canal de youtube</h2>
- <a href="https://youtube.com/@stiv1on?si=lxgisEM3WjgsVIb0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Portfolio" height="25" /></a>
 
 
  ## 🐍 Una serpiente que se come mi gráfico de contribuciones
@@ -127,5 +125,11 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+<h2>Canal de youtube</h2>
+ <a href="https://youtube.com/@stiv1on?si=lxgisEM3WjgsVIb0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Portfolio" height="25" /></a>
+
+
+
 
 Last Edited on: 11/12/2024
